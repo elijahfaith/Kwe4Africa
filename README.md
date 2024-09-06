@@ -1,9 +1,9 @@
 <h1>Subject: VM Provisioning - Ubuntu box and Apache Installation</h1>
 
-<h2>Provisioning of Virtual Machine that runs on APache Web Server</h2>
+<h3>Provisioning of Virtual Machine that runs on APache Web Server</h3>
 Deploying a website on the Apache web server
 
-<h2>Creating a Virutal Box that runs on Ubuntu/focal64 using Vagrant</h2>
+<h3>Creating a Virutal Box that runs on Ubuntu/focal64 using Vagrant</h3>
 Specified the size to be 2040MB and CPU 1
 Provisioning Using Bash Scripting for Installation and configuration
 Syncing and Sharing the Website folder into the Apache Web server from the Host machine into the virtual machine
